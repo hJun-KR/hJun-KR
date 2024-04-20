@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://velog.io/@hjun-kr/posts](https://velog.io/@hjun-kr/posts)
 
-- 📫 How to reach me **hJunpark.p@gmail.com**
+- 📫 How to reach me **h0ngjunpark.p@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
