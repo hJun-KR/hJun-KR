@@ -1,34 +1,109 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello!%20I'm%20HongJun-Park&animation=twinkling&fontColor=000000&fontSize=40" />
-</div>
-
-
-
-<h3 align="center">A passionate fullstack developer from Korea<h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hjun-kr&label=Profile%20views&color=0e75b6&style=flat" alt="hjun-kr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hjun-kr" alt="hjun-kr" /></a> </p>
-
-- 📝 I regularly write articles on [https://velog.io/@hjun-kr/posts](https://velog.io/@hjun-kr/posts)
-
-- 📫 How to reach me **hJunpark.p@gmail.com**
-
-#
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/phj_0901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phj_0901" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hjun-kr&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
-#
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&text=HongJun%20Park&fontColor=ffffff&fontSize=50&animation=fadeIn" />
 
-#
+<img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=500&lines=Backend+Developer" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hjun-kr&show_icons=true&locale=en&layout=compact" alt="hjun-kr" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hjun-kr&show_icons=true&locale=en" alt="hjun-kr" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hjun-kr&" alt="hjun-kr" /></p>
+## ⚡ 소개
+
+* NestJS / Spring Boot 기반 백엔드 개발
+* RESTful API 및 서비스 구조 설계 중심
+* 배포 및 운영까지 경험한 실전형 개발자
+* 프론트엔드 구현 및 연동까지 가능한 개발자
+
+---
+
+## 🧱 기술 스택
+
+### 🧩 백엔드 (Main)
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nestjs,spring,nodejs,java,flask,django" />
+</p>
+
+### 🎨 프론트엔드 (Sub)
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts" />
+</p>
+
+### 🗄 데이터베이스
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🚀 인프라
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare" />
+</p>
+
+### 🧰 협업 및 도구
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,discord" />
+</p>
+
+---
+
+## 🏗 개발 역량
+
+* RESTful API 설계 (NestJS, Spring Boot)
+* JWT / Spring Security 기반 인증 시스템 구현
+* Layered Architecture 설계
+* TypeORM / JPA 기반 데이터 처리
+* Node.js / Flask / Django 기반 서버 개발 경험
+* Docker + Nginx 기반 배포 환경 구성
+
+### 🎨 프론트엔드
+
+* React + TypeScript 기반 UI 구현
+* API 연동 및 데이터 흐름 처리
+* 상태 관리 및 컴포넌트 구조 설계
+* 간단한 서비스 화면 직접 구현 가능
+
+---
+
+## 🔥 강점
+
+* 백엔드 중심의 서비스 구조 설계 능력
+* 다양한 백엔드 프레임워크 경험 기반 문제 해결
+* 프론트엔드까지 직접 구현 가능한 개발 역량
+* 협업 환경에서 효율적인 개발 프로세스 경험
+
+---
+
+## 📊 GitHub 활동
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hjun-kr&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 연락처
+
+<p align="center">
+  <a href="mailto:s2461@e-mirim.hs.kr">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="mailto:hongjun@hjun.kr">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://instagram.com/h0xjun1">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+<p align="center">
+  s2461@e-mirim.hs.kr · hongjun@hjun.kr · @h0xjun1
+</p>
