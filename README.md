@@ -44,7 +44,7 @@
 ### 🚀 인프라
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare" />
+<img src="https://skillicons.dev/icons?i=ubuntu,docker,nginx,cloudflare" />
 </p>
 
 ### 🧰 협업 및 도구
